@@ -1,0 +1,8 @@
+**/obj
+**/bin
+
+.nuget/nuget.exe
+packages
+
+# secrets
+LeakedLink/Secrets.fs
